@@ -1,0 +1,4 @@
+This is a interactive demonstration of the budget deficit of the states of the United States of America. This has been created by Abhiram, Megala and Nitin at the University of Florida.
+
+Install processing from http://processing.org/download/.
+To run this copy all files to the "sketchbook" folder which can be set from the File menu and point to the Ration_alize.pde file from Open in the File menu. Use the play button at the top. Game ends when 4 states go bankrupt. See the attached pdf (in folder) for further information.
